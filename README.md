@@ -38,6 +38,7 @@
   <a href="https://open.spotify.com/user/Manishadhandare">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Manishadhandare&count=5" alt="Spotify recently played"  />
   </a>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zcc8jsno08y0706mw8mf987xv&unique={true|1|on|yes})
 </div>
 
 ###
